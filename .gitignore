@@ -172,4 +172,4 @@ cython_debug/
 
 
 # NC files
-.nc
+*.nc
