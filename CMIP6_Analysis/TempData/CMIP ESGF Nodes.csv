@@ -1,0 +1,48 @@
+﻿Node address,Node category,CMIP Activity,Website ,Associated Institutes (full names),Associated modelling centres,Mailing address (Country),Node domain
+aims3.llnl.gov,Replication and indexing node,Obs4MIPs,,Lawrence Livermore National Laboratory,E3SM-Project,USA,llnl.gov
+esgf-data2.llnl.gov,Replication and indexing node,CMIP6,https://esgf-node.llnl.gov/search/cmip6/,Lawrence Livermore National Laboratory,E3SM-Project,USA,llnl.gov
+esgf-data1.llnl.gov,Original data node,"CMIP6,Obs4MIPs",,Lawrence Livermore National Laboratory,,USA,llnl.gov
+esgf.ceda.ac.uk,Replication and indexing node,"CMIP6,CMIP5,Obs4MIPs",https://esgf-index1.ceda.ac.uk/search/cmip6-ceda/,"Science and Technology Facilities Council, Centre for Environment & Data Analysis ",MOHC,UK,ceda.ac.uk
+esgf3.dkrz.de,Replication and indexing node,CMIP6,https://esgf-data.dkrz.de/search/cmip6-dkrz/,Deutsches Klimarechenzentrum,DKRZ,Germany,dkrz.de
+esgf1.dkrz.de,Original data node,"Obs4MIPs,CMIP5",,Deutsches Klimarechenzentrum,DKRZ,,dkrz.de
+esgf.nci.org.au,Replication and indexing node,"CMIP6,CMIP5",https://esgf.nci.org.au/search/cmip6-nci/,National Computational Infrastructure,"CSIRO-ARCCSS, CSIRO-COSIMA",Australia,nci.org.au
+vesg.ipsl.upmc.fr,Indexing node,"CMIP6,CMIP5,Obs4MIPs",https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/ ,Institute Pierre Simon Laplace,IPSL,France,ipsl.upmc.fr
+esgf-data04.diasjp.net,Replication node,CMIP6,,Data Integration and Analysis System,DIAS,Japan,diasjp.net
+esgf-data03.diasjp.net,Original data node,CMIP6,,Data Integration and Analysis System,DIAS,Japan,diasjp.net
+esgf-data02.diasjp.net,Original data node,CMIP6,,Data Integration and Analysis System,DIAS,Japan,diasjp.net
+esgf-data1.diasjp.net,Original data node,CMIP5,,Data Integration and Analysis System,DIAS,,diasjp.net
+esg-dn1.nsc.liu.se,Indexing node,"CMIP6,CMIP5",,Linköping University,EC-Earth-Consortium,Sweden,nsc.liu.se
+esg-dn2.nsc.liu.se,Original data node,CMIP6,,Linköping University,,Sweden,nsc.liu.se
+esg-dn3.nsc.liu.se,Original data node,CMIP6,,Linköping University,,Sweden,nsc.liu.se
+esgf-nimscmip6.apcc21.org,Original data node,CMIP6,,"Korea Meteorological Administration, APEC Climate center , Korea Meteorological Administration",NIMS-KMA,S Korea,apcc21.org
+cmip.bcc.cma.cn,Original data node,CMIP6,,"Beijing Climate Centre, China Meteorological Administration",BCC,China,bcc.cma.cn
+esgf.bsc.es,Original data node,CMIP6,,Barcelona Supercomputing Center - Centro Nacional de Supercomputacion,,Spain,bsc.es
+esg.camscma.cn,Original data node,CMIP6,,China Meteorological Administration,CAMS,China,camscma.cn
+esgf-node.cmcc.it,Original data node,CMIP5,,Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici,CMCC,Italy,cmcc.it
+esgf-node2.cmcc.it,Original data node,CMIP6,,Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici,CMCC,Italy,cmcc.it
+esgf-data.csc.fi,Original data node,CMIP6,,EC-Earth-Consortium,EC-Earth-Consortium,,csc.fi
+cmip.dess.tsinghua.edu.cn,Original data node,CMIP6,,Tsinghua University,,China,tsinghua.edu.cn
+esgf.dwd.de,Original data node,CMIP6,,Deutscher Wetterdienst,DWD,Germany,dwd.de
+crd-esgf-drc.ec.gc.ca ,Original data node,"CMIP6,CMIP5",,Canadian Centre for Climate Modelling and Analysis,CCCma,Canada,ec.gc.ca
+cmip.fio.org.cn,Original data node,CMIP6,,"First Institute of Oceanography, Qingdao National Laboratory for Marine Science and Technology",FIO-QLNM,,fio.org.cn
+esgdata.gfdl.noaa.gov,Original data node,"CMIP6,CMIP5,Obs4MIPs",,NOAA Geophysical Fluid Dynamics Laboratory,NOAA-GFDL,USA,gfdl.noaa.gov
+esgf-cnr.hpc.cineca.it,Original data node,CMIP6,,Cineca Consortium,,Italy,cineca.it
+esgf-ictp.hpc.cineca.it ,Original data node,CMIP6,,Cineca Consortium,,Italy,cineca.it
+esgf.ichec.ie,Original data node,CMIP5,,National University of Ireland,,Ireland,ichec.ie
+esg.lasg.ac.cn,Original data node,"CMIP6,CMIP5",,Chinese Academy of Sciences,CAS,China,lasg.ac.cn
+dataserver.nccs.nasa.gov,Original data node,CMIP5,,National Aeronautics and Space Administration ,NASA-GISS,,nccs.nasa.gov
+dpesgf03.nccs.nasa.gov,Original data node,"CMIP6,CMIP5,Obs4MIPs",,National Aeronautics and Space Administration ,NASA-GISS,USA,nccs.nasa.gov
+noresg.nird.sigma2.no,Original data node,"CMIP6,CMIP5",,University of Oslo,,Norway,nird.sigma2.no
+dist.nmlab.snu.ac.kr,Original data node,CMIP6,,Seoul National University,SNU,S Korea,nmlab.snu.ac.kr
+polaris.pknu.ac.kr,Original data node,CMIP6,,Korean Institute of Ocean Science and Technology,KIOST,S Korea,pknu.ac.kr
+esgf.rcec.sinica.edu.tw,Original data node,CMIP6,,Research Center for Environmental Changes : Academia Sinica,"AS-RCEC, NTU",Taiwan,rcec.sinica.edu.tw
+esg-cccr.tropmet.res.in,Original data node,CMIP6,,Indian Institute of Tropical Meteorology,CCCR-IITM,India,tropmet.res.in
+esgf-data.ucar.edu,Original data node,"CMIP6,CMIP5",,University Corporation for Atmospheric Research,,USA,ucar.edu
+esg1.umr-cnrm.fr,Original data node,"CMIP6,CMIP5",,Centre Européen et de Formation avancée en calcul Scientifique,CNRM-CERFACS,France,umr-cnrm.fr
+dmiesgf0.dmi.dk,Original data node,CMIP6,,"EC-Earth-Consortium, Swedish Meteorological and Hydrological Institute, The Royal Netherlands Meteorological Institute , La Agencia Estatal de Meteorología , Met Éireann, Consiglio Nazionale delle Ricerche, Finnish Meteorological Institute, Barcelona Supercomputing Center - Centro Nacional de Supercomputacion",EC-Earth-Consortium,Germany,dmi.dk
+esgf-open.apps.onyx.ccs.ornl.gov,Original data node,CMIP6,,Oak Ridge National Laboratory,,USA,ornl.gov
+esgf.anl.gov,Original data node,CMIP6,,"Argonne National Laboratory (Argonne), University of Chicago",,USA,anl.gov
+eridanus.eoc.dlr.de,Original data node,Obs4MIPs,,Deutsche Zentrum für Luft- und Raumfahrt,,,dlr.de
+gpm1.gesdisc.eosdis.nasa.gov,Original data node,Obs4MIPs,,National Aeronautics and Space Administration ,,,eosdis.nasa.gov
+measures.gesdisc.eosdis.nasa.gov,Original data node,Obs4MIPs,,National Aeronautics and Space Administration ,,,eosdis.nasa.gov
+acdisc.gesdisc.eosdis.nasa.gov,Original data node,Obs4MIPs,,National Aeronautics and Space Administration ,,,eosdis.nasa.gov
