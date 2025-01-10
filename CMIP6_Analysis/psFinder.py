@@ -94,7 +94,7 @@ def calc(i):
                                      'download_url': f.download_url, 
                                      'opendap_url': f.opendap_url}, hit))
     df = pd.DataFrame.from_dict(files)
-    dfOld = pd.read_csv(f'TempData/Paths_{model}.csv')
+    dfOld = pd.read_csv(f'TempData/Paths_{model}.csv', index = None)
     dfOld = dfOld[~((dfOld['period'] == period) & (dfOld['Var'] == 'ps'))&(dfOld['model'] == model)] # removes the daily ps
     df = pd.concat([df, dfOld], ignore_index=True)
     df.to_csv(f'TempData/Paths_{model}.csv', index=None)
